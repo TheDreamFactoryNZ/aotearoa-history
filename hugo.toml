@@ -1,0 +1,4 @@
+baseURL = 'https://aotearoahistory.co.nz'
+languageCode = 'en-nz'
+title = 'Aotearoa History'
+theme = 'PaperMod'
